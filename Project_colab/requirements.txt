@@ -1,0 +1,10 @@
+Flask
+openai
+requests
+GitPython
+duckdb
+markdown
+Pillow
+numpy
+scikit-learn
+beautifulsoup4
